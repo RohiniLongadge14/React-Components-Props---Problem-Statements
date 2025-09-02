@@ -1,0 +1,25 @@
+.post-card {
+  background: #b99e9e;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px auto;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.post-title {
+  font-size: 1.5rem;
+  color: #255549;
+  margin-bottom: 8px;
+}
+
+.post-author {
+  font-style: italic;
+  color: #4f4993;
+  margin-bottom: 12px;
+}
+
+.post-content {
+  color: #d591b1;
+  line-height: 1.5;
+}
