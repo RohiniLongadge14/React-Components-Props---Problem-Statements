@@ -3,5 +3,3 @@
 <img width="1918" height="486" alt="Compoent and Prop 3" src="https://github.com/user-attachments/assets/8370702f-3efb-42a4-9672-57df9e8bf9d7" />
 
 
-## Author
-Rohini Longadge
